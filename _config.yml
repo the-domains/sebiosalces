@@ -1,0 +1,28 @@
+name: SebioSalces
+favicon: null
+layout_spectrum: 0.47070035710930824
+typography_spectrum: 0.5373136361595243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7880321885459125
+  lightness: 0.2368046783376485
+  saturation: 0.7414990053512156
+  rhythmicContrast: 0.05043077189475298
+purpose: []
